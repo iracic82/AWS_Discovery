@@ -11,4 +11,4 @@ _Default values may differ based on your Infoblox portal settings._
 
 Click the button below to launch this CloudFormation stack in your AWS account:
 
-[![Deploy to AWS](https://img.shields.io/badge/Deploy%20to%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://console.aws.amazon.com/cloudformation/home?#/stacks/create/template?templateURL=https://infoblox-igor.s3.eu-west-1.amazonaws.com/infoblox_discovery_stackset.yaml)
+[![Deploy to AWS](https://img.shields.io/badge/Deploy%20to%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://console.aws.amazon.com/cloudformation/home?#/stacks/create/template?templateURL=https://infoblox-igor.s3.eu-west-1.amazonaws.com/infoblox-iam-role.yaml)
